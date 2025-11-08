@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tianyu Tian
 
-### A passionate developer from around the world
+### Winner of Food Scrambling in Kindergarten!!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tianyu-Tian" alt="Tianyu-Tian" /></a> </p>
 
