@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tianyu Tian
 
-### Winner of Food Scrambling in Kindergarten
+### A passionate developer from around the world
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tianyu-Tian&label=Profile views&color=0e75b6&style=flat" alt="Tianyu-Tian" /> </p>
 
@@ -36,3 +36,5 @@ A: B**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tianyu-Tian&show_icons=true&locale=en" alt="Tianyu-Tian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tianyu-Tian&" alt="Tianyu-Tian" /></p>
+
+
